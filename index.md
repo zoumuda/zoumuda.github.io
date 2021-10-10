@@ -1,8 +1,11 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta name="robots" content="index, follow" />
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="keywords" content="Lin-Shuang Zhao, 赵林爽, Remote Sensing, Image Processing, Deep Learning, Denoising, Cloud Removal, Hyperspecral, Wuhan University">
+<meta name="keywords" content="Qiang Zhang, 张强, Remote Sensing, Image Processing, Deep Learning, Denoising, Cloud Removal, Hyperspecral, Wuhan University">
 <link rel="stylesheet" href="./Files/jemdoc.css" type="text/css" />
 <script src="jquery.min.js"></script>
 <link rel="shortcut icon" href="./Files/favicon.ico">
